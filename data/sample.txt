@@ -1,0 +1,6 @@
+This is a file
+Count the lines 
+this is for assignment purpose
+this is a sample.
+ new line
+new line

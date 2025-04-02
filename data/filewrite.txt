@@ -1,1 +1,0 @@
-This statement is written during write operation.
